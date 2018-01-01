@@ -116,7 +116,7 @@ App({
   },
   globalData:{
     userInfo:null,
-    subDomain: "tz",
+    subDomain: "root",
     version: "1.7",
     shareProfile: '百款精品商品，总有一款适合您' // 首页转发的时候话术
   }
