@@ -9,15 +9,22 @@
 - 小程序开发 [@jiulonggithub](https://github.com/orgs/EastWorld/people/jiulonggithub)
 - 接口及后台支持 [@gooking](https://github.com/gooking)
 
-期待您的加入~
+期待您的加入~ ,欢迎大家踊跃提交代码。
 
-开发问题欢迎加QQ群一起交流 ： 479413914
+开发问题欢迎一起交流 ： QQ交流群：479413914
 
 ## 扫码体验
 
 <p>
 <img src="https://cdn.it120.cc/apifactory/2017/09/15/487409738ebb80c44eda01c46d59b20c.jpg" width="200px">
+<img src="https://www.it120.cc/images/yxsc.jpg" width="200px">
+<img src="https://cdn.it120.cc/apifactory/2018/04/01/b7b8f5a0fcfc72454ade8510ab929717.jpg" width="200px">
 </p>
+
+## 最新功能
+
+- 新增商品砍价功能，扫码上面第一个二维码，第一个商品详情可体验砍价；
+- 分享商品给好友，好友下单后可获得积分、现金返现；
 
 ## 使用说明
 
@@ -38,7 +45,7 @@
 >
 > > > 商品类别接口；
 >
-> > > 商品列表和详情接口；
+> > > 商城商品管理接口；
 >
 > > > 商城订单管理接口；
 >
@@ -48,7 +55,7 @@
 >
 > > > 平台公告模块
 >
-> > > 每日签到【签到送积分】
+> > > 积分模块【签到送积分】
 >
 > 修改源码中  app.js 文件
 > > > globalData:{
@@ -64,12 +71,20 @@
 
 ## 常见问题
 
-- [如何修改小程序商城的标题“EastWorld”？](https://www.it120.cc/info/faq/778)
+- [如何修改小程序商城的标题？](https://www.it120.cc/info/faq/778)
 - [“无法登录”的错误？](https://www.it120.cc/info/faq/391)
 - [小程序提示“无法登录”的错误？](https://www.it120.cc/info/faq/392)
 - [如何发布自己的商品？](https://www.it120.cc/info/faq/436)
 - [如何给Banner增加链接，点击打开某个商品？](https://www.it120.cc/info/faq/437)
 - [获取我的accesstoken，以便我在其他系统使用](https://www.it120.cc/info/faq/763)
+- 工厂后台设置 appid、secret、微信支付商户号和秘钥时候的 token 怎么填？
+>  不要填！
+>
+>  不要填！
+>
+>  不要填！
+>
+> 重要的事情说三遍，这个小程序用不到，是给服务号使用的，所以大家空着不要填
 - 微信支付时候，提示 50000 错误，不能获取到预支付id
 >  这个错误是无法获取到微信支付的预支付信息
 > - 可能是你没有在后台配置您的微信支付商户号和秘钥，或者配置错误
@@ -115,6 +130,7 @@
 - [如何设置用户提现手续费](https://www.it120.cc/info/faq/1589)
 - [商品如何显示视频？](https://www.it120.cc/info/faq/1802)
 - [货到付款、积分赠送规则设置](https://www.it120.cc/notice/22)
+- [小程序如何使用“模板消息”给用户推送消息](https://www.it120.cc/info/faq/2823)
 
 
 ## 如何升级到最新版
